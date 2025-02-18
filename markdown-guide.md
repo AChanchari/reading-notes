@@ -2,8 +2,8 @@
 1. Con # seguido de la "palabra o frase" se puede poner un título.
 2. Aprendi a poner texto en negrita con **hola** y texto en itálica con *hola*.
 3. Realice listas como el que estoy usando ahora, ordenada "con numeracion" y desordenada con - .
-4. A poner enlaces como este [LinkedIn](https://www.linkedin.com/in/anngie-chanchari/).
-5. Imagenes como este: ![Programador](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEj0uAbA4uFmE7ccSsx6BhyZSdjkWRjTj8zQ&s).
+4. A poner enlaces como este [LinkedIn](https://www.linkedin.com/in/anngie-chanchari/)
+5. Imagenes como este: ![Programador](https://lh3.googleusercontent.com/a/ACg8ocJMVO-QcaJE5Jyi4MxbVC9aZqsB3HYYOFnk5MXVummtpFhdXtg=s288-c-no).
 6. Tambien a crear tabla comparativa:
 
 | **Características** | **HTML**                             | **Markdown**                       |
