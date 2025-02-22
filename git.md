@@ -12,8 +12,7 @@ Ver que archivos se cambiaron o modificaron
 git status
 ```
 
-
-
+## el flujo add ha vuelto
 ```
 git add .
 git commit -m ""
